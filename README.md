@@ -1,7 +1,7 @@
 # MNIST Classification Project
 
 ## Overview
-This project is a simple example of image classification using the MNIST dataset. The goal is to classify handwritten digits (0-9) using a convolutional neural network (CNN).
+This project is a simple example of image classification using the MNIST dataset. The goal is to classify handwritten digits (0-9) using a Resnset.
 
 ## Requirements
 - Python 3.x
