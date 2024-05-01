@@ -1,0 +1,8 @@
+
+
+_target_: pytorch_lightning.Trainer
+   
+max_epochs: 32
+log_every_n_steps: 10
+accelerator: cpu
+devices: -1

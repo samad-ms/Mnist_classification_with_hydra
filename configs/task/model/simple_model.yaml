@@ -1,0 +1,8 @@
+# @package task.model
+
+defaults:
+  - backbone: resnet18
+  - adapter: linear_512_10
+  - head: identity_head
+
+_target_: models.SimpleModel

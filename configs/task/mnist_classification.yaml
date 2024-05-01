@@ -1,0 +1,7 @@
+
+defaults:
+  - model: simple_model
+  - optimizer: adam
+  - loss_function: cross_entropy
+
+_target_: tasks.MNISTClassification
